@@ -1,0 +1,11 @@
+
+1. A forrás Konzolos project megnyitása,  konzolos class-át használjuk a WPF-ben, Networkhelper
+2. felső, alsó stackpanel vagy grid, felül versenyző neve listboxban
+3. ha kiválasztunk egy versenyzőt, neve, országkódja, pontja label-ekben
+4. pont értékelése szöveggel: magas, középes, alacsony (700,400)
+5. alul felvitel: versenyző díjazása a díjazás táblába, gombra
+a kiválasztott versenyző id-jét vigye fel, az összeget és egy megjegyzést pl. különdíj
+6. hibakiírás gomb alatt:
+- hiányzó megjegyzés
+- hiányzó összeg
+- az összeghez szám fogadható el
